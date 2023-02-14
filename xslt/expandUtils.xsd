@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="expandUtils"
+           targetNamespace="http://tempuri.org/expandUtils.xsd"
+           elementFormDefault="qualified"
+           xmlns="http://tempuri.org/expandUtils.xsd"
+           xmlns:mstns="http://tempuri.org/expandUtils.xsd"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:attribute name="modelNamespace" type="xs:string" />
+  
+</xs:schema>
